@@ -1,0 +1,15 @@
+{
+  "name": "select-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npx parcel index.html -p 3000 --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.8"
+  }
+}
